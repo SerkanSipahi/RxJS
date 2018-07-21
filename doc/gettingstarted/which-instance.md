@@ -278,7 +278,7 @@ Use this page to find the instance operator implemented by the [`Observable`](ht
         </td>
     </tr>
     <tr>
-        <td colspan="2">and suppy the last value to future subscribers</td>
+        <td colspan="2">and supply the last value to future subscribers</td>
         <td>
           <a href="https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/operators/publishlast.md">publishLast</a><br>
           <a href="https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/operators/sharelast.md">shareLast</a>
